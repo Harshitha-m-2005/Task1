@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+#navbar{
+    background-color: black;
+    color: white;
+    height:60px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+}
+#logo{
+    margin-left: 2px;
+    font-size: 25px;
+    color:orange;
+}
+#input{
+    margin-left: 200px;
+}
+button{
+    background-color: rgb(179, 131, 44);
+    color: azure;
+}
+.contentbox{
+    height:100px;
+    width: 100px;
+    border:2px solid black;
+    display: inline-block;
+}
+
+
+
+  
+    
+    
+
+
